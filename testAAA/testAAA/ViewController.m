@@ -34,7 +34,16 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     self.view.backgroundColor = [UIColor redColor];
+
+    WWLog(@"I am test");
+ 
     WWLog(@"I am testGit");
+    
+    WWLog(@"I am testGit -- 2");
+    
+    WWLog(@"test冲突区域");
+    //大海哈哈哈撒个娇
+
 }
 
 

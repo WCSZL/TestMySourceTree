@@ -37,6 +37,8 @@
     
     WWLog(@"I am test");
     
+    WWLog(@"I am testGit");
+
 }
 
 

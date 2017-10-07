@@ -38,6 +38,8 @@
     WWLog(@"I am test");
     
     WWLog(@"I am testGit");
+    
+     WWLog(@"I am testGit -- 2");
 
 }
 

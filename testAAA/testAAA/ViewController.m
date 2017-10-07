@@ -24,9 +24,6 @@
 //随机色
 #define WWRandomColor WWColor(arc4random_uniform(256),arc4random_uniform(256),arc4random_uniform(256))
 
-//http不能访问修正
-//1、在Info.plist中添加 NSAppTransportSecurity 类型 Dictionary ;
-//2、在 NSAppTransportSecurity 下添加 NSAllowsArbitraryLoads 类型Boolean ,值设为 YES;
 @interface ViewController ()
 
 @end
